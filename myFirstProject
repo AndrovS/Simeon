@@ -1,0 +1,16 @@
+package myjava;
+
+	public class Hello {
+ public static void main(String[] args) {
+		
+	  float d = 142.2f ;
+	  byte a = 12;
+	  short w = 23323;
+	  int e = 843354345;
+	  long k = 44564789678473642l;
+	  double o = 1242512.421d ;
+	  float p = 1532.156273352f;
+	   
+	 System.out.println( k / p / o * a * d % w / e) ; 
+ }
+ }
